@@ -588,7 +588,7 @@ export default function Experience() {
 
       {/* 0 — Hero: the big steaming bowl, orbited by noodle rings */}
       <group position={[0, 0, at(0)]}>
-        <group position={[0, 1.9, -2.5]}>
+        <group position={[0, 1.2, -4.5]}>
           <Float speed={1.3} rotationIntensity={0.15} floatIntensity={0.5}>
             <HeroBowl />
           </Float>
